@@ -1,4 +1,1 @@
-
-remote_theme: dieghernan/chulapa
-
-... more config options
+theme: jekyll-theme-tactile
