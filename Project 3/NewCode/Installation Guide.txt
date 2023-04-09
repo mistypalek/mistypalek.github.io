@@ -1,0 +1,6 @@
+1. Unzip the folder
+2. Create virtual environment "python -m venv vemv"
+3. Activate the virtual environment ".\venv\Scripts\activate"
+4. Import json file in MongoDB DB name "ACC" and collection name "animals"
+5. Install the requirements "pip install -r requirements.txt"
+6. Run the DashboardApp.py file
