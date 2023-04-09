@@ -31,11 +31,17 @@ Artifact 2: Databases
 ## Project 1
 [Project link](https://github.com/link/to/project)<br />
 This artifact is a scene that was originally designed in CS 330 class, using OpenGL and C++ language. The object of the class was to design a scene of our choosing, to demonstrate our graphical coding skills.  This artifact was created in July of 2022. <br /> 
+
 I’ve selected this artifact for my ePortfolio, because it was by far the most challenging piece of work, I’ve done in the past five years of attending SNHU.   The artifact was developed through a series of shapes that represent the original picture I took of a desk scene, with a fan, remote control, phone tripod, and speaker. 
+
 The artifact uses OpenGL library for C++, which allows for graphics to be rendered with GPU (graphics processing unit).  The specific components of the artifact that showcase my skills is the C++ language for each shape that needed to be rendered to make up the final scene.  Using C++, I was able to create two arrays for each object created.  One array was to hold vertexes and their data: position, normal, color, texture, and uv coordinates. The other array was used to combine vertices to make shapes, like a triangle for the phone easel that was included in the scene.<br />
+
 The Shader in OpenGL is a user-defined program designed to run on some stage of a graphics processor. (Shader - OpenGL Wiki, n.d.). Using the shader function, I was able to create these objects (shapes) and then pass them to the projection function, which then projected them with an image, to give the idea that they were more than shapes, but actual existing objects.<br />
+
 To improve this artifact, I was able to modify the code, to make the fan not only oscillate, turning to and fro, but also to make the fan blades spin.  The challenges I was faced with were installing MS Visual Studio again, so I could open the artifact and continue to work on the project. That was an easy fix, then once I was able to find the artifact and open the code, to start to modify it, there was the challenge of remembering C++ enough to make the changes.  Once I re-familiarized myself with the code, the actual placement of the code was not difficult.  Using “ SOHCAHTOA” which I learned in my calculus classes, I was able make the fan oscillate using sin and remembering that sin was applied to the vertices, which allowed for the fan blades to spin. <br />
+
 For this artifact, in the software design and engineering category, I feel that I have enhanced the project as planned and have met the objectives.<br />
+
 
 
 
