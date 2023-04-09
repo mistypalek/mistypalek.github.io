@@ -1,7 +1,7 @@
 # Misty Palek ePortfolio
 
 ### Table of Contents
-* [Overview] (#Overview)
+* [Overview] (#overview)
 * [Self Reflection](#self-reflection)
 * [Code Review](#codereview)
 * [Project 1](#project-1)
@@ -29,7 +29,7 @@ Artifact 1: Software Design and Engineering and Algorithms and Data Structure
 Artifact 2: Databases
 
 ## Project 1
-[Project link](https://github.com/link/to/project)
+[Project link](https://github.com/link/to/project)<br />
 This artifact is a scene that was originally designed in CS 330 class, using OpenGL and C++ language. The object of the class was to design a scene of our choosing, to demonstrate our graphical coding skills.  This artifact was created in July of 2022.  
 I’ve selected this artifact for my ePortfolio, because it was by far the most challenging piece of work, I’ve done in the past five years of attending SNHU.   The artifact was developed through a series of shapes that represent the original picture I took of a desk scene, with a fan, remote control, phone tripod, and speaker. 
 The artifact uses OpenGL library for C++, which allows for graphics to be rendered with GPU (graphics processing unit).  The specific components of the artifact that showcase my skills is the C++ language for each shape that needed to be rendered to make up the final scene.  Using C++, I was able to create two arrays for each object created.  One array was to hold vertexes and their data: position, normal, color, texture, and uv coordinates. The other array was used to combine vertices to make shapes, like a triangle for the phone easel that was included in the scene.
