@@ -28,6 +28,7 @@ The artifacts I will be sharing in this ePortfolio were two artifacts I am most 
 I have two different code reviews, as I've analyzed my two artifacts.  Each of these code reviews, I review the existing code to look for weaknesses or limitations and discuss my code enhancements.  
 
 Artifact 1: Software Design and Engineering and Algorithms and Data Structure
+
 Artifact 2: Databases
 
 ## Project 1
