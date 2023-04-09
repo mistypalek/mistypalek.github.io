@@ -29,7 +29,7 @@ Artifact 1: Software Design and Engineering and Algorithms and Data Structure
 Artifact 2: Databases
 
 ## Project 1
-[Project link](https://github.com/link/to/project)<br />
+[Project link](https://github.com/link/to/project1)<br />
 This artifact is a scene that was originally designed in CS 330 class, using OpenGL and C++ language. The object of the class was to design a scene of our choosing, to demonstrate our graphical coding skills.  This artifact was created in July of 2022. <br /> 
 
 I’ve selected this artifact for my ePortfolio, because it was by far the most challenging piece of work, I’ve done in the past five years of attending SNHU.   The artifact was developed through a series of shapes that represent the original picture I took of a desk scene, with a fan, remote control, phone tripod, and speaker. 
