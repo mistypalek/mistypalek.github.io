@@ -53,7 +53,8 @@ For this artifact, in the software design and engineering category, I feel that 
 
 
 ## Project 3
-[Project link](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%203)<br />
+[Project 3 files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%203)<br />
+[Project 3 Review] (https://github.com/mistypalek/mistypalek.github.io/blob/0e459f64650b9b4f3ea78e202e0aa639774dce26/Project%203/Misty%20Palek%20-%20Project%203%20Review.mp4)
 In this milestone three, Databases, I’ve chosen to present my final project for the CS340 Client/Server Development assignment.  This project was full stack application development with dashboard, that easily identified dogs that are exceptional candidates for search-and-rescue training.  This artifact was developed in December of 2022. 
 
 I’m including this project in my ePortfolio, because it showcases my ability to build a full-stack application using Jypter Notebooks, Pymongo, Python, MongoDB, JavaScript, and Mongo Shell, visually displaying the data that was mined from the Animal Shelter database.  The revision I've made is to be able to also display the sex of the ideal candidates on the dashboard. 
