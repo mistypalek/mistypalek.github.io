@@ -51,12 +51,12 @@ To improve this artifact, I was able to modify the code, to make the fan not onl
 For this artifact, in the software design and engineering category, I feel that I have enhanced the project as planned and have met the objectives.<br />
 
 ## Project 2
-[Project 2 files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%202)<br />
+[Project 2 Files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%202)<br />
 <a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf" target="_blank">Project 2 Review</a><br />
 In milestone two, Algorithms and Data Structure, I added an algorithm using an if loop, that used the keyboard F to stop the oscilation of the fan from oscilating in Project 1.  
 
 ## Project 3
-[Project 3 files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%203)<br />
+[Project 3 Files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%203)<br />
 <a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EWBtxUwkD79LhFWFH-u4XzkBBPRRfzNnViDkeV3-JjeOXg?e=e2dV8c" target="_blank">Project 3 Review</a><br />
 In this milestone three, Databases, I’ve chosen to present my final project for the CS340 Client/Server Development assignment.  This project was full stack application development with dashboard, that easily identified dogs that are exceptional candidates for search-and-rescue training.  This artifact was developed in December of 2022. 
 
