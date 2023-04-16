@@ -29,15 +29,16 @@ The artifacts I will be sharing in this ePortfolio were two artifacts I am most 
 ## Code Review
 I have two different code reviews, as I've analyzed my two artifacts.  Each of these code reviews, I review the existing code to look for weaknesses or limitations and discuss my code enhancements.  
 
-Artifact 1: Software Design and Engineering and Algorithms and Data Structure
+Artifact 1: Software Design and Engineering and Algorithms and Data Structure <br />
 <a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf">
 Artifact 1 & 2 Code Review</a><br />
+
 
 Artifact 2: Databases
 
 ## Project 1
 [Project 1 Files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%201)<br />
-<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf" target="_blank">Project 2 Review</a><br />
+<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EfsiQNN7o2ZMhkXNt_xp8o8BQDcGTTiKKCPrIDFTELBs7g?e=ao1U2M" target="_blank">Project 2 Review</a><br />
 This artifact is a scene that was originally designed in CS 330 class, using OpenGL and C++ language. The object of the class was to design a scene of our choosing, to demonstrate our graphical coding skills.  This artifact was created in July of 2022. <br /> 
 
 I’ve selected this artifact for my ePortfolio, because it was by far the most challenging piece of work, I’ve done in the past five years of attending SNHU.   The artifact was developed through a series of shapes that represent the original picture I took of a desk scene, with a fan, remote control, phone tripod, and speaker. 
