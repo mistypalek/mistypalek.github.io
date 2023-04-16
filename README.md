@@ -37,7 +37,7 @@ Artifact 2: Databases
 
 ## Project 1
 [Project 1 Files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%201)<br />
-[Project 1 Review]<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf" target="_blank">Project 2 Review</a><br />
+<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf" target="_blank">Project 2 Review</a><br />
 This artifact is a scene that was originally designed in CS 330 class, using OpenGL and C++ language. The object of the class was to design a scene of our choosing, to demonstrate our graphical coding skills.  This artifact was created in July of 2022. <br /> 
 
 I’ve selected this artifact for my ePortfolio, because it was by far the most challenging piece of work, I’ve done in the past five years of attending SNHU.   The artifact was developed through a series of shapes that represent the original picture I took of a desk scene, with a fan, remote control, phone tripod, and speaker. 
@@ -52,7 +52,7 @@ For this artifact, in the software design and engineering category, I feel that 
 
 ## Project 2
 [Project 2 files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%202)<br />
-[Project 2 Review]<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf" target="_blank">Project 2 Review</a><br />
+<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf" target="_blank">Project 2 Review</a><br />
 In milestone two, Algorithms and Data Structure, I added an algorithm using an if loop, that used the keyboard F to stop the oscilation of the fan from oscilating in Project 1.  
 
 ## Project 3
