@@ -49,7 +49,7 @@ For this artifact, in the software design and engineering category, I feel that 
 
 ## Project 2
 [Project link](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%202)<br />
-In milestone two, Algorithms and Data Structure, I added an algorithmusing an if loop, that used the keyboard F to stop the oscilation of the fan from oscilating in Project 1.  
+In milestone two, Algorithms and Data Structure, I added an algorithm using an if loop, that used the keyboard F to stop the oscilation of the fan from oscilating in Project 1.  
 
 ## Project 3
 [Project 3 files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%203)<br />
