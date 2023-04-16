@@ -50,7 +50,7 @@ For this artifact, in the software design and engineering category, I feel that 
 
 ## Project 2
 [Project link](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%202)<br />
-
+In milestone two, Algorithms and Data Structure, I added an algorithm that allows the project in Project 1 to oscilate back and forth.  
 
 ## Project 3
 [Project 3 files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%203)<br />
