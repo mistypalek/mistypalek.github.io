@@ -30,6 +30,7 @@ The artifacts I will be sharing in this ePortfolio were two artifacts I am most 
 I have two different code reviews, as I've analyzed my two artifacts.  Each of these code reviews, I review the existing code to look for weaknesses or limitations and discuss my code enhancements.  
 
 Artifact 1: Software Design and Engineering and Algorithms and Data Structure
+<a href="(https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EWBtxUwkD79LhFWFH-u4XzkBBPRRfzNnViDkeV3-JjeOXg?e=e2dV8c)"Artifact 1 & 2 Code Review"</a><br />
 
 Artifact 2: Databases
 
@@ -49,7 +50,7 @@ For this artifact, in the software design and engineering category, I feel that 
 
 ## Project 2
 [Project 2 files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%202)<br />
-<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EWBtxUwkD79LhFWFH-u4XzkBBPRRfzNnViDkeV3-JjeOXg?e=e2dV8c" target="_blank">Project 2 Review</a><br />
+<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=GFawsS" target="_blank">Project 2 Review</a><br />
 In milestone two, Algorithms and Data Structure, I added an algorithm using an if loop, that used the keyboard F to stop the oscilation of the fan from oscilating in Project 1.  
 
 ## Project 3
