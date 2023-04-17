@@ -30,7 +30,7 @@ The artifacts I will be sharing in this ePortfolio were two artifacts I am most 
 I have two different code reviews, as I've analyzed my two artifacts.  Each of these code reviews, I review the existing code to look for weaknesses or limitations and discuss my code enhancements.  
 
 Artifact 1: Software Design and Engineering and Algorithms and Data Structure <br />
-<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf">
+<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EStrZjz2rFBEvAp2AvIsrM4BZH_4Skc2q0Op2q1hsqkRIw?e=2OUZD7">
 Artifact 1 & 2 Code Review</a><br />
 
 Artifact 2: Databases <br/>
