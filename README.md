@@ -32,11 +32,10 @@ I have two different code reviews, as I've analyzed my two artifacts.  Each of t
 Artifact 1: Software Design and Engineering and Algorithms and Data Structure <br />
 <a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf">
 Artifact 1 & 2 Code Review</a><br />
+
+Artifact 2: Databases <br/>
 <a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/ERBj8SP5d_VAtCJJeOmkNhUBRrFsmFclVfy_2v8z1pKk1w?e=A6L2KZ">
-
-
-
-Artifact 2: Databases
+Artifact 3 Code Review</a><br />
 
 ## Project 1
 [Project 1 Files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%201)<br />
