@@ -32,6 +32,8 @@ I have two different code reviews, as I've analyzed my two artifacts.  Each of t
 Artifact 1: Software Design and Engineering and Algorithms and Data Structure <br />
 <a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EYthTLqzhrtLkz5SWdolqxMBe22CLoKWPxwPGDJDFnCgCA?e=fdP6Hf">
 Artifact 1 & 2 Code Review</a><br />
+<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/ERBj8SP5d_VAtCJJeOmkNhUBRrFsmFclVfy_2v8z1pKk1w?e=A6L2KZ">
+
 
 
 Artifact 2: Databases
@@ -58,7 +60,7 @@ In milestone two, Algorithms and Data Structure, I added an algorithm using an i
 
 ## Project 3
 [Project 3 Files](https://github.com/mistypalek/mistypalek.github.io/tree/main/Project%203)<br />
-<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/ERBj8SP5d_VAtCJJeOmkNhUBRrFsmFclVfy_2v8z1pKk1w?e=A6L2KZ" target="_blank">Project 3 Review</a><br />
+<a href="https://netorgft3622772-my.sharepoint.com/:v:/g/personal/misty_palek_palekbookkeeping_com/EWBtxUwkD79LhFWFH-u4XzkBBPRRfzNnViDkeV3-JjeOXg?e=FAv5mO" target="_blank">Project 3 Review</a><br />
 In this milestone three, Databases, I’ve chosen to present my final project for the CS340 Client/Server Development assignment.  This project was full stack application development with dashboard, that easily identified dogs that are exceptional candidates for search-and-rescue training.  This artifact was developed in December of 2022. 
 
 I’m including this project in my ePortfolio, because it showcases my ability to build a full-stack application using Jypter Notebooks, Pymongo, Python, MongoDB, JavaScript, and Mongo Shell, visually displaying the data that was mined from the Animal Shelter database.  The revision I've made is to be able to also display the sex of the ideal candidates on the dashboard. 
